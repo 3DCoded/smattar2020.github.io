@@ -1,12 +1,17 @@
 ## UTM Templates
 
-### Compatibility
+### System Requirements
 * UTM >= 3.0
 * macOS
 * Apple Silicon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All of the VMs provided here are preinstalled and preconfigured.
 
+### Windows VMs
+All of the Windows VMs provided here are for arm64 and were built from ISOs generated from [UUPDump](https://uupdump.net)
+
+### Ubuntu Linux VMs
+All of the Ubuntu Linux VMs provided here are for arm64 and were built from ISOs download from [Ubuntu](https://ubuntu.com)
 ```markdown
 Syntax highlighted code block
 
